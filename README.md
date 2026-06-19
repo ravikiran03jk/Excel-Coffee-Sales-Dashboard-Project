@@ -20,8 +20,7 @@ Created and formatted Pivot Charts to visualize trends and performance
 # Interactive Controls
 Added Timelines for date-based filtering
 Inserted Slicers for coffee type, product, and region filtering
-# Data Source Management
-Updated Pivot Table data sources to reflect cleaned and structured tables
+
 # Dashboard Development
 Designed a fully interactive Excel dashboard
 Combined KPIs, charts, slicers, and timelines for user-friendly insights
